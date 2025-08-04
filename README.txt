@@ -1,6 +1,6 @@
 Project: The Modern Frame - Fictional Art Gallery Website
 
-Developer Name: [Your Name Here]
+Developer Name: Devanand K [RA2211003011171]
 
 =======================================================
 
